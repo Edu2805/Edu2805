@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming more and better.
 - 🌱 I’m currently learning Java and JavaScript
 - 💞️ I’m looking to collaborate on small projects to create experience and be able to work on large projects in the future.
+- My LinkedIn: https://www.linkedin.com/in/eduardo-amorim-85065b75/
 - 📫 How to reach me: eduardoamorim927@gmail.com
 
 <!---
