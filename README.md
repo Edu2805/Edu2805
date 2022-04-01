@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Edu2805=anuraghazra&show_icons=true&theme=radical)
+
 - 👋 Hi, I’m @Edu2805
 - 👀 I’m interested in programming more and better.
 - 🌱 I’m currently learning Java and JavaScript
