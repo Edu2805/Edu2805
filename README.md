@@ -1,4 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edu2805&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edu2805&layout=compact)](https://github.com/Edu2805/github-readme-stats)
 
 - 👋 Hi, I’m @Edu2805
 - 👀 I’m interested in programming more and better.
