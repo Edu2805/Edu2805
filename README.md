@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Edu2805=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edu2805&show_icons=true&theme=radical)
 
 - 👋 Hi, I’m @Edu2805
 - 👀 I’m interested in programming more and better.
