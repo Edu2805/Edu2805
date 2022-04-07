@@ -1,13 +1,13 @@
+ <h1>👋 Hi, I'm Eduardo Amorim</h1>
+ 
+- I'm a Java Backend developer;
+- I have some projects developed in Java and JavaScript
+- I’m looking to collaborate on small projects to create experience and be able to work on large projects in the future.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edu2805&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edu2805&layout=compact)](https://github.com/Edu2805/github-readme-stats)
 
-- 👋 Hi, I’m @Edu2805
-- 👀 I’m interested in programming more and better.
-- 🌱 I’m currently learning Java and JavaScript
-- 💞️ I’m looking to collaborate on small projects to create experience and be able to work on large projects in the future.
-- 💻 My LinkedIn: https://www.linkedin.com/in/eduardo-amorim-85065b75/
-- 📫 How to reach me: eduardoamorim927@gmail.com
-
+<h3>Technologies I work</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-java" heigth="60" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Edu-java" heigth="70" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -19,6 +19,13 @@
   <img align="center" alt="Edu-java" heigth="80" width="90" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="Edu-java" heigth="100" width="110" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
+<br>
+<h3>Contact means to talk to me</h3>
+<div style="display: inline_block">
+  <p>- <img align="center" alt="Edu-java" heigth="90" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 💻 My LinkedIn: https://www.linkedin.com/in/eduardo-amorim-85065b75/</p>
+  
+  <p>- <img align="center" alt="Edu-java" heigth="80" width="90" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 📫 How to reach me: eduardoamorim927@gmail.com</p>
+</div> 
 
 <!---
 Edu2805/Edu2805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
