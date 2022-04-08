@@ -22,9 +22,9 @@
 <br>
 <h3>Contact means to talk to me</h3>
 <div style="display: inline_block">
-  <p>- <a href="https://www.linkedin.com/in/eduardo-amorim-85065b75" rel="nofollow"><img align="center" alt="Edu-java" heigth="90" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></p>
+  <p><a href="https://www.linkedin.com/in/eduardo-amorim-85065b75" rel="nofollow"><img align="center" alt="Edu-java" heigth="90" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></p>
   
-  <p>- <img align="center" alt="Edu-java" heigth="80" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 📫 How to reach me: eduardoamorim927@gmail.com</p>
+ [![eduardoamorim927@gmail.com](https://img.shields.io/badge/-eduardoamorim927@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardoamorim927@gmail.com)](mailto:eduardoamorim927@gmail.com)
 </div> 
 
 <!---
