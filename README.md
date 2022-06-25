@@ -1,6 +1,6 @@
  <h1>👋 Hi, I'm Eduardo Amorim</h1>
  
-- I'm a Java Backend developer;
+- I'm a FullStack developer;
 - I have some projects developed in Java and JavaScript
 - I’m looking to collaborate on small projects to create experience and be able to work on large projects in the future.
 
