@@ -23,7 +23,7 @@
 <h3>Certifications</h3>
 <div style="display: inline_block"><br>
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=44271D1881759FDB458B32C34067D66273CD3E4A5D0A093BDB360DF243990FA0">
-      <img align="center" alt="Edu-java" height="60" width="120" src="https://brm-workforce.oracle.com/pdf/certview/images/JAVA8OJA.png">
+      <img align="center" alt="Edu-java" height="160" width="320" src="https://brm-workforce.oracle.com/pdf/certview/images/JAVA8OJA.png">
   </a>
 </div>
 <br>
