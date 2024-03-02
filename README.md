@@ -20,6 +20,13 @@
   <img align="center" alt="Edu-java" heigth="100" width="110" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 <br>
+<h3>Certifications</h3>
+<div style="display: inline_block"><br>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=44271D1881759FDB458B32C34067D66273CD3E4A5D0A093BDB360DF243990FA0">
+      <img align="center" alt="Edu-java" height="60" width="120" src="https://brm-workforce.oracle.com/pdf/certview/images/JAVA8OJA.png">
+  </a>
+</div>
+<br>
 <h3>Contact means to talk to me</h3>
 <div style="display: inline_block">
   <p><a href="https://www.linkedin.com/in/eduardo-amorim-85065b75" rel="nofollow"><img align="center" alt="Edu-java" heigth="90" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></p>
